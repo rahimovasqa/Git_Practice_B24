@@ -7,4 +7,8 @@ public class Fourth {
 
     // updating this file
     // more updates
+
+    public static void main(String[] args) {
+        //added main method
+    }
 }
